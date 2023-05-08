@@ -69,7 +69,7 @@ Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
 
 Outputs:
 
-myvar = "”test”"
+myvar = "test"
 ```
 
 
